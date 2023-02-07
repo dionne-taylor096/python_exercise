@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "0c3cbe76",
+   "id": "1e110902",
    "metadata": {},
    "source": [
     "# Question 2"
@@ -11,7 +11,7 @@
   {
    "cell_type": "code",
    "execution_count": 61,
-   "id": "cffc9a49",
+   "id": "32c175b4",
    "metadata": {
     "scrolled": true
    },
@@ -34,7 +34,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "03a64a19",
+   "id": "4b5b0e1f",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -44,7 +44,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "49c92ec3",
+   "id": "61771bf5",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -54,7 +54,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "a4fabe55",
+   "id": "da45b6d3",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -64,7 +64,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "920dae81",
+   "id": "3c8df77c",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -74,7 +74,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "867aa51e",
+   "id": "bc9803bb",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -84,7 +84,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "6f76580c",
+   "id": "65cb7a30",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -93,7 +93,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "166d9478",
+   "id": "b31890e1",
    "metadata": {},
    "source": [
     "# Question 2\n",
@@ -112,7 +112,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "5fd0b2ae",
+   "id": "a71f2f1d",
    "metadata": {},
    "source": [
     "# Question 3"
@@ -121,7 +121,7 @@
   {
    "cell_type": "code",
    "execution_count": 63,
-   "id": "a1bb5a01",
+   "id": "b99cd639",
    "metadata": {},
    "outputs": [
     {
@@ -143,7 +143,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "e7b84699",
+   "id": "c8381010",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -153,7 +153,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "6411c07b",
+   "id": "01e72519",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -163,7 +163,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "22f4642b",
+   "id": "a915add6",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -173,7 +173,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "9ea4a256",
+   "id": "74e4a2a9",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -183,7 +183,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "7946e0f9",
+   "id": "8d2d4ee0",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -193,7 +193,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "6058b524",
+   "id": "cb8373bf",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -203,7 +203,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "a3d45524",
+   "id": "c67014fd",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -213,7 +213,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "5334e271",
+   "id": "31104799",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -223,7 +223,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "b01fa5d9",
+   "id": "ab288641",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -233,7 +233,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "604389bd",
+   "id": "c0b2fdff",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -243,7 +243,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "f5d63b26",
+   "id": "8f140fa0",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -253,7 +253,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "50764247",
+   "id": "5e3fb88a",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -263,7 +263,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "5b081130",
+   "id": "a348c343",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -273,7 +273,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "cddace98",
+   "id": "09c5791a",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -283,7 +283,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "b7ea4309",
+   "id": "fd37f808",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -293,7 +293,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "6b1b04b0",
+   "id": "b79b1c8d",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -303,7 +303,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "aca87157",
+   "id": "08bcbe92",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -313,7 +313,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "6adc0a40",
+   "id": "5bf63124",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -323,7 +323,7 @@
   {
    "cell_type": "code",
    "execution_count": 64,
-   "id": "abdf48c0",
+   "id": "ad141343",
    "metadata": {},
    "outputs": [
     {
@@ -345,7 +345,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "4565f40a",
+   "id": "f5a0e731",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -355,7 +355,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "4110c881",
+   "id": "da07a5f3",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -364,7 +364,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2876c96c",
+   "id": "75ac1f85",
    "metadata": {},
    "source": [
     "# Questions 5"
@@ -372,8 +372,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "7076f14d",
+   "execution_count": 1,
+   "id": "58004175",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -382,8 +382,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "773819f7",
+   "execution_count": 2,
+   "id": "492716e2",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -392,8 +392,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "751b239c",
+   "execution_count": 3,
+   "id": "b4dc4f0e",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -402,10 +402,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "6a46b435",
+   "execution_count": 4,
+   "id": "fb2851b4",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.0"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "daily_rent_fee = float(3.00)\n",
     "daily_rent_fee"
@@ -413,18 +424,29 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "2f330ba9",
+   "execution_count": 9,
+   "id": "6c1942a0",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "27.0"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
-    "rental_cost = daily_rent_fee * the_little_mermaid\n",
+    "rental_cost = (daily_rent_fee * the_little_mermaid) + (daily_rent_fee * hercules) + (daily_rent_fee * brother_bear)\n",
     "rental_cost"
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "f4a9e843",
+   "id": "1be48647",
    "metadata": {},
    "source": [
     "# Questions 6"
@@ -432,8 +454,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "886e2b5d",
+   "execution_count": 10,
+   "id": "bef29cff",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -444,10 +466,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "fa8bfc3a",
+   "execution_count": 11,
+   "id": "53d90948",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2400.0"
+      ]
+     },
+     "execution_count": 11,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "daily_rate_google = hourly_rate_google * 6\n",
     "daily_rate_google"
@@ -455,10 +488,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "f98a9cc5",
+   "execution_count": 12,
+   "id": "0c49ebca",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1520.0"
+      ]
+     },
+     "execution_count": 12,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "daily_rate_amazon = hourly_rate_amazon * 4\n",
     "daily_rate_amazon"
@@ -466,10 +510,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "55f61eb1",
+   "execution_count": 13,
+   "id": "9f688dfc",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3500.0"
+      ]
+     },
+     "execution_count": 13,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "daily_rate_facebook = hourly_rate_facebook * 10\n",
     "daily_rate_facebook"
@@ -477,10 +532,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "891662bc",
+   "execution_count": 14,
+   "id": "a92d19be",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "7420"
+      ]
+     },
+     "execution_count": 14,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "weekly_payment_amount = daily_rate_facebook + daily_rate_google + daily_rate_amazon\n",
     "round(weekly_payment_amount)"
@@ -488,7 +554,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "1a049bc2",
+   "id": "9a0d856b",
    "metadata": {},
    "source": [
     "# Questions 7"
@@ -496,8 +562,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "e7301c87",
+   "execution_count": 15,
+   "id": "cd83f068",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -509,10 +575,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "b13112e8",
+   "execution_count": 16,
+   "id": "4d84f925",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "False"
+      ]
+     },
+     "execution_count": 16,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "enrolled_student = class_not_full and class_schedule_conflict\n",
     "enrolled_student"
@@ -520,7 +597,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "89f07485",
+   "id": "a074b26c",
    "metadata": {},
    "source": [
     "# Questions 8"
@@ -528,8 +605,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "ca6d58d7",
+   "execution_count": 17,
+   "id": "f357eeb2",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -542,10 +619,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "c37042b3",
+   "execution_count": 18,
+   "id": "1845a02f",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "True"
+      ]
+     },
+     "execution_count": 18,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "product_offer_applied = less_than_two_items and offer_not_expired or premium_member\n",
     "product_offer_applied"
@@ -553,8 +641,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "f5778d2b",
+   "execution_count": 19,
+   "id": "7e913e51",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -564,8 +652,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "f81e49a7",
+   "execution_count": 20,
+   "id": "1a3bd752",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -577,10 +665,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "336ec392",
+   "execution_count": 21,
+   "id": "dd9543a2",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "True"
+      ]
+     },
+     "execution_count": 21,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "pass_user_check = len(password) > 5 and len(username) <= 20 and password != username \n",
     "pass_user_check"
@@ -588,10 +687,21 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "9ccbd7b4",
+   "execution_count": 22,
+   "id": "534db713",
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "False"
+      ]
+     },
+     "execution_count": 22,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
    "source": [
     "pass_user_char_check = password_count or username_count\n",
     "pass_user_char_check"
@@ -600,7 +710,15 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "2b3bf73a",
+   "id": "bdb40ba6",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1c8b929c",
    "metadata": {},
    "outputs": [],
    "source": []
